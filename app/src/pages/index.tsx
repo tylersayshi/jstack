@@ -20,7 +20,7 @@ export default async function Home() {
         <p className="text-[#ececf399] text-lg/7 md:text-xl/8 text-pretty sm:text-wrap sm:text-center text-center mb-8">
           The stack for building seriously fast, lightweight and{" "}
           <span className="inline sm:block">
-            end-to-end typesafe <s>Next.js</s> Waku apps.
+            end-to-end typesafe Waku apps.
           </span>
         </p>
 
